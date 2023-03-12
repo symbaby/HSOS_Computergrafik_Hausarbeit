@@ -1,0 +1,12 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+newmtl sky
+Ka  0.0 0.0 0.0
+Kd  1.0 1.0 1.0
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  4.0
+illum 2
+map_Kd smiley.png
+#
+# EOF

@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CGPrakt6_Clion"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\boery\source\Hausarbeit CG\Hausarbeit-CG\CGPrakt6_Clion\cmake-build-debug\Makefile&quot; VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\boery\source\Hausarbeit CG\Hausarbeit-CG\CGPrakt6_Clion\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\boery\source\Hausarbeit CG\Hausarbeit-CG\CGPrakt6_Clion\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\boery\source\Hausarbeit CG\Hausarbeit-CG\CGPrakt6_Clion\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CGPrakt6_Clion">
+				<Option output="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/cmake-build-debug/CGPrakt6_Clion.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source"/>
+					<Add directory="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/libraries/glfw/include"/>
+					<Add directory="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/libraries/glew/include"/>
+					<Add directory="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/libraries/freeimage/include"/>
+					<Add directory="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/libraries/assimp/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.19041.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.19041.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.19041.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.19041.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\boery\source\Hausarbeit CG\Hausarbeit-CG\CGPrakt6_Clion\cmake-build-debug\Makefile&quot; VERBOSE=1 CGPrakt6_Clion"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\boery\source\Hausarbeit CG\Hausarbeit-CG\CGPrakt6_Clion\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\boery\source\Hausarbeit CG\Hausarbeit-CG\CGPrakt6_Clion\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\boery\source\Hausarbeit CG\Hausarbeit-CG\CGPrakt6_Clion\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CGPrakt6_Clion/fast">
+				<Option output="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/cmake-build-debug/CGPrakt6_Clion.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source"/>
+					<Add directory="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/libraries/glfw/include"/>
+					<Add directory="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/libraries/glew/include"/>
+					<Add directory="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/libraries/freeimage/include"/>
+					<Add directory="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/libraries/assimp/include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\ATLMFC\include"/>
+					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.19041.0\\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.19041.0\\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.19041.0\\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.19041.0\\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\boery\source\Hausarbeit CG\Hausarbeit-CG\CGPrakt6_Clion\cmake-build-debug\Makefile&quot; VERBOSE=1 CGPrakt6_Clion/fast"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\boery\source\Hausarbeit CG\Hausarbeit-CG\CGPrakt6_Clion\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\boery\source\Hausarbeit CG\Hausarbeit-CG\CGPrakt6_Clion\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\boery\source\Hausarbeit CG\Hausarbeit-CG\CGPrakt6_Clion\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\boery\source\Hausarbeit CG\Hausarbeit-CG\CGPrakt6_Clion\cmake-build-debug\Makefile&quot; VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\boery\source\Hausarbeit CG\Hausarbeit-CG\CGPrakt6_Clion\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\boery\source\Hausarbeit CG\Hausarbeit-CG\CGPrakt6_Clion\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\boery\source\Hausarbeit CG\Hausarbeit-CG\CGPrakt6_Clion\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;C:\Users\boery\source\Hausarbeit CG\Hausarbeit-CG\CGPrakt6_Clion\cmake-build-debug\Makefile&quot; VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;C:\Users\boery\source\Hausarbeit CG\Hausarbeit-CG\CGPrakt6_Clion\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;C:\Users\boery\source\Hausarbeit CG\Hausarbeit-CG\CGPrakt6_Clion\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;C:\Users\boery\source\Hausarbeit CG\Hausarbeit-CG\CGPrakt6_Clion\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/include/Application.h">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/include/Camera.h">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/include/Framebuffer.h">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/include/IndexBuffer.h">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/include/Matrix.h">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/include/Texture.h">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/include/VertexBuffer.h">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/Application.cpp">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/Background/Terrain.cpp">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/Background/Terrain.h">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/Background/TerrainShader.cpp">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/Background/TerrainShader.h">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/Camera.cpp">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/Framebuffer.cpp">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/Game/Spieler.cpp">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/Game/Spieler.h">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/Game/Verfolger.cpp">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/Game/Verfolger.h">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/IndexBuffer.cpp">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/Matrix.cpp">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/Texture.cpp">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/VertexBuffer.cpp">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/main.cpp">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Lights/ShaderLightMapper.cpp">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Lights/ShaderLightMapper.h">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Lights/ShadowMapGenerator.cpp">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Lights/ShadowMapGenerator.h">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Models/Aabb.cpp">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Models/Aabb.h">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Models/BaseModel.cpp">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Models/BaseModel.h">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Models/LineBoxModel.cpp">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Models/LineBoxModel.h">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Models/LinePlaneModel.cpp">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Models/LinePlaneModel.h">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Models/Model.cpp">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Models/Model.h">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Models/TriangleBoxModel.cpp">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Models/TriangleBoxModel.h">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Models/TrianglePlaneModel.cpp">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Models/TrianglePlaneModel.h">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Models/TriangleSphereModel.cpp">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Models/TriangleSphereModel.h">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Shader/BaseShader.cpp">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Shader/BaseShader.h">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Shader/BloomShader.cpp">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Shader/BloomShader.h">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Shader/ConstantShader.cpp">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Shader/ConstantShader.h">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Shader/FogShader.cpp">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Shader/FogShader.h">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Shader/Godray.cpp">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Shader/Godray.h">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Shader/PhongShader.cpp">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Shader/PhongShader.h">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Shader/PostProcessingShader.cpp">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Shader/PostProcessingShader.h">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Shader/PostProcessor.cpp">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/Shader/PostProcessor.h">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/YourClasses/color.cpp">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/YourClasses/color.h">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/YourClasses/rgbimage.cpp">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/YourClasses/rgbimage.h">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/YourClasses/vector.cpp">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/source/utils/YourClasses/vector.h">
+			<Option target="CGPrakt6_Clion"/>
+		</Unit>
+		<Unit filename="C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

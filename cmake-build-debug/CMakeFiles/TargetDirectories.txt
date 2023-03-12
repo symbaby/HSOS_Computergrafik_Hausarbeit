@@ -1,0 +1,3 @@
+C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/cmake-build-debug/CMakeFiles/CGPrakt6_Clion.dir
+C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/cmake-build-debug/CMakeFiles/rebuild_cache.dir

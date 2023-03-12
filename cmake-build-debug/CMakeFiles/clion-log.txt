@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" -S "C:\Users\boery\source\Hausarbeit CG\Hausarbeit-CG\CGPrakt6_Clion" -B "C:\Users\boery\source\Hausarbeit CG\Hausarbeit-CG\CGPrakt6_Clion\cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/boery/source/Hausarbeit CG/Hausarbeit-CG/CGPrakt6_Clion/cmake-build-debug

@@ -1,0 +1,32 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl Grass2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.840000 0.840000 0.840000
+Ks 0.012549 0.012549 0.012549
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 3ee9f2b9178eae5fbc7bfdec1d78f4d7.png
+
+newmtl Grass3
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.840000 0.840000 0.840000
+Ks 0.012549 0.012549 0.012549
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 2ab1c37cfdff720c6de2ddb07328f145.jpg
+
+newmtl Grass4
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.840000 0.840000 0.840000
+Ks 0.012549 0.012549 0.012549
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd grass_top_by_tardifice-d84jizt.png
